@@ -1,6 +1,6 @@
 # 📈 Interactive Linear Regression with Gradient Descent (LRGD)
 
-Welcome to the **Interactive Linear Regression** app! This Streamlit app is designed to help you visualize and understand the process of fitting a line to a set of 2D noisy data points using **gradient descent**. It's a great tool for teaching or learning the fundamentals of machine learning algorithms.
+Welcome to the **Interactive Linear Regression** app! This Streamlit app is designed to help you visualize and understand the process of fitting a line to a set of 2D noisy data points using **gradient descent**.
 
 ![Linear Regression Visualization](./Screenshot.png)
 
