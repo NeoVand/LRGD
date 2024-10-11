@@ -26,8 +26,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/linear-regression-app.git
-cd linear-regression-app
+git clone https://github.com/NeoVand/LRGD.git
+cd LRGD
 ```
 
 #### 2. Create a Virtual Environment
